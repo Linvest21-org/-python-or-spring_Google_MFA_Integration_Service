@@ -1,0 +1,10 @@
+Build a Flask based or Springboot application to provide Multi-Factor Authentication. Prefer to integrate with Google Authenticator. 
+* provide API to register new MFA devices with Google Authenticator for different users
+* provide API to validate MFA codes
+* Be able to accepts up to 3 MFA codes in a single request. 
+
+A success delivery should include:
+* Full working code base
+* Unit tests
+* Sample usages to describe above scenarios
+* Readme.md with detailed installation instructions
